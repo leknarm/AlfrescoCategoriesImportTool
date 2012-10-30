@@ -1,2 +1,17 @@
 This is a tool to import bulk categories to the alfresco server.
-This code make from https://forums.alfresco.com/en/viewtopic.php?t=7052.
+
+This code create for alfresco-4.0.e and require alfresco-web-service-client-4.0.e.jar from alfresco sdk
+This is a dependencies for alfresco-web-service-client-4.0.e.jar
+ - axis-1.4.jar
+ - commons-discovery-0.2.jar
+ - commons-logging-1.1.1.jar
+ - jaxrpc.jar
+ - mail.jar
+ - opensaml-1.0.1.jar
+ - wsdl4j-1.6.2.jar
+ - wss4j-1.5.4.patched.jar
+ - xalan.jar
+ - xerceslmpl-2.8.0.jar
+ - xmlsec-1.4.1.jar
+ 
+ This code make from https://forums.alfresco.com/en/viewtopic.php?t=7052.
