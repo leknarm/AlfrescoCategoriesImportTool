@@ -1,0 +1,6 @@
+# Example Categories
+/cm:Softwares/cm:Alfresco
+/cm:Softwares/cm:LibreOffice
+/cm:Softwares/cm:LibreOffice/cm:Extensions
+/cm:Softwares/cm:LibreOffice/cm:Templates
+/cm:Softwares/cm:Eclipse
